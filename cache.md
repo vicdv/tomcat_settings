@@ -1,4 +1,4 @@
-### Turn off the ehcache Java Web application in tomcat
+### Turn off the ehcache for Java Web application in tomcat
 $ cd <BASE_TOMCAT_FOLDER>
 
 $ vim bin/setenv.sh
