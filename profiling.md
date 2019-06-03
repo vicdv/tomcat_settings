@@ -1,5 +1,6 @@
 ### Profile Java Web application in tomcat 7
-cd <BASE_TOMCAT_FOLDER>
+$ cd <BASE_TOMCAT_FOLDER>
+
 $ vim bin/setenv.sh
 
 Add props to the end of CATALINA_OPTS
