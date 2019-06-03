@@ -11,8 +11,11 @@ https://tomcat.apache.org/tomcat-7.0-doc/monitoring.html
 
 
 ##Connect remotely through VisualVM
+
 ![Add remove host](pictures/remote_debug1.png)
+
 ![Add JMX connection](pictures/remote_debug2.png)
+
 ![Configure JMX connection](pictures/remote_debug3.png)
 
 
